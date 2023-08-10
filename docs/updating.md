@@ -45,7 +45,7 @@ setting you use.
 
 ## Preventing Commit of Merge Conflicts
 
-If you use `--conflict rej` (the default):
+If you use `--conflict rej`:
 
 ```yaml title=".pre-commit-config.yaml"
 repos:
